@@ -1,3 +1,6 @@
 .env
 node_modules
 iscrizioni.csv
+idrofobia_players.sql
+players.sql
+test.txt
